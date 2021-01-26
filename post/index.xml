@@ -6,7 +6,18 @@
     <description>Recent content in Posts on RJM Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 20:39:39 +0800</lastBuildDate><atom:link href="http://rjm521.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 20:53:03 +0800</lastBuildDate><atom:link href="http://rjm521.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Command Line for Beginners</title>
+      <link>http://rjm521.github.io/post/docker-command-line-for-beginners/</link>
+      <pubDate>Tue, 26 Jan 2021 20:53:03 +0800</pubDate>
+      
+      <guid>http://rjm521.github.io/post/docker-command-line-for-beginners/</guid>
+      <description>This article is reproduced with here.)
+ While I often utilize Docker as part of a hosting and deployment system, I also use it locally for all sorts of exploration, spikes, and development. There are a couple of especially useful patterns and invocations that I show to people when I am introducing them to Docker and its usage.
+The following tips are not comprehensive, but they do cover some of the most common operations that beginning users are likely to need when first working with containers.</description>
+    </item>
+    
     <item>
       <title>Goland Shortcut List</title>
       <link>http://rjm521.github.io/post/goland-shortcut-list/</link>

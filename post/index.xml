@@ -6,7 +6,16 @@
     <description>Recent content in Posts on RJM Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 21:20:08 +0800</lastBuildDate><atom:link href="http://rjm521.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jan 2021 20:39:39 +0800</lastBuildDate><atom:link href="http://rjm521.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goland Shortcut List</title>
+      <link>http://rjm521.github.io/post/goland-shortcut-list/</link>
+      <pubDate>Tue, 26 Jan 2021 20:39:39 +0800</pubDate>
+      
+      <guid>http://rjm521.github.io/post/goland-shortcut-list/</guid>
+      <description> 1. `Ctrl + Y` // 删除当前代码行 2. `Shift + F1` // 对当前光标所在的内容在浏览器里看文档 3. `Ctrl + Up / Ctrl + Down` // 跳过代码提示直接跳转到下一行或上一行 4. `Ctrl + Space` // 打开提示框 5. `Ctrl + D` // 查看连个选中文件夹的不同 6. `Ctrl + 0` // 查看当前文件的结构：包含哪些方法、结构体、变量等，方便进行导航与跳转 7. `Ctrl + Shift + 7` // 查看并高亮当前所在函数的所有`return` 和 `panic` 位置 8. `Ctrl + Shift + i` // 可以查看当前调用的函数的具体实现 9. `Ctrl + Alt + 7` // 查看当前选中的变量、函数的所有使用与调用地 </description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>http://rjm521.github.io/post/my-first-post/</link>

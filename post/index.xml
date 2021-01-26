@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RJM Site</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on RJM Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 21:20:08 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/post/my-first-post/</link>
+      <pubDate>Sun, 24 Jan 2021 21:20:08 +0800</pubDate>
+      
+      <guid>http://example.org/post/my-first-post/</guid>
+      <description>let&amp;rsquo;s start! This is my first time using hugo. Hugo is really clean and awesome!
+package main import &amp;#34;fmt&amp;#34; func main(){ fmt.Println(&amp;#34;hello go!&amp;#34;) } #inlcude &amp;lt;iostream&amp;gt;  using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; endl; return 0; } 测试一下中文
+ 好 好 学 习   天 天 向 上   中文，说：
+ 古人云：有朋自远方来，不亦乐乎。
+ 🌈 baidu</description>
+    </item>
+    
+  </channel>
+</rss>
